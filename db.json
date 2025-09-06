@@ -1,0 +1,505 @@
+[
+  {
+    "ref": "ans_13094d22-d060-43e9-8fc9-9d12cfbedc69",
+    "keyword": "key_554a5254-545e-4695-a0c1-1bcab4cbd742",
+    "answer": "🙌¡Hola! Bienvenid@ al área administrativa de Boom Solutions.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "07e5e6a6183a81e9691c14aad037b3dc",
+    "from": "584125044792"
+  },
+  {
+    "ref": "ans_66ca3bcc-34eb-48c3-8245-65ad50815eef",
+    "keyword": "ans_13094d22-d060-43e9-8fc9-9d12cfbedc69",
+    "answer": "❗ Por favor, envía solo una de las opciones mencionadas:\r\n👉 1 Consulta de saldo.\r\n👉 2 Métodos de pagos disponibles.\r\n👉 3 Solicitar asistencia con un asesor de Ventas.\r\n👉 0 Salir del Bot",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4b903cc2007911681c3427f66b9919f3",
+    "from": "584125044792"
+  },
+  {
+    "ref": "f80bd67b-985b-49c8-9cd8-5935b1e7ed4f",
+    "keyword": "4b903cc2007911681c3427f66b9919f3",
+    "answer": "Jajjaj",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "435b579a384fb0d5f924c5f5deca7df5"
+  },
+  {
+    "ref": "ans_66ca3bcc-34eb-48c3-8245-65ad50815eef",
+    "keyword": "ans_13094d22-d060-43e9-8fc9-9d12cfbedc69",
+    "answer": "❗  Por favor, envía solo una de las opciones mencionadas: 1, 2, 3 o 0",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4b903cc2007911681c3427f66b9919f3",
+    "from": "584125044792"
+  },
+  {
+    "ref": "b56fe5f8-1208-4c46-8bd6-65c702e6b8f4",
+    "keyword": "4b903cc2007911681c3427f66b9919f3",
+    "answer": "Verga",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "a951d4421a6f90acb2f812b2c157bcf6"
+  },
+  {
+    "ref": "ans_66ca3bcc-34eb-48c3-8245-65ad50815eef",
+    "keyword": "ans_13094d22-d060-43e9-8fc9-9d12cfbedc69",
+    "answer": "❗  Por favor, envía solo una de las opciones mencionadas: 1, 2, 3 o 0",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4b903cc2007911681c3427f66b9919f3",
+    "from": "584125044792"
+  },
+  {
+    "ref": "9cb52163-1aa8-458e-b010-33b3ae25155e",
+    "keyword": "4b903cc2007911681c3427f66b9919f3",
+    "answer": "0",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_450b9560-7fbe-4cdc-98bf-5c1f238f66cf",
+    "keyword": "key_79278474-4e32-45dc-9c9b-87333319a04a",
+    "answer": "Bot de administración desconectado. ¡Que tengas un buen día! 👋🏻\nCuando quieras volver, solo escribe \"Boom\"",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "b3d983c2a341fb9982c5dbcfab59888b",
+    "from": "584125044792"
+  },
+  {
+    "ref": "1ccd3ffb-a926-49b7-80e9-d4864c981c85",
+    "keyword": "b3d983c2a341fb9982c5dbcfab59888b",
+    "answer": "Ajua",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "254257407bdbc3891426374a7cfb5d4e"
+  },
+  {
+    "ref": "febf67ae-7076-44f9-85d2-32410d1151ea",
+    "keyword": "254257407bdbc3891426374a7cfb5d4e",
+    "answer": "Jjajajaj",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "6f711297952f7632c96b4180a7f5c5ba"
+  },
+  {
+    "ref": "648137f2-611b-4f49-b581-7d308fba6983",
+    "keyword": "6f711297952f7632c96b4180a7f5c5ba",
+    "answer": "Que cool",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "2327d4dc02f4d27c9ed836b95003179a"
+  },
+  {
+    "ref": "30817896-57c0-43a9-a8b3-d38d62348d7f",
+    "keyword": "2327d4dc02f4d27c9ed836b95003179a",
+    "answer": "Jaja que divertido",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "a6a48eafab63c8922deb5e761ab30718"
+  },
+  {
+    "ref": "4e57a8fd-1170-4082-bd44-e0ee37ce74a6",
+    "keyword": "a6a48eafab63c8922deb5e761ab30718",
+    "answer": "Jajajaj está bien chido",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "2a6bc74bb0a576a680e8960cb7383314"
+  },
+  {
+    "ref": "db659309-6a88-41df-84bc-9d582736fbd2",
+    "keyword": "2a6bc74bb0a576a680e8960cb7383314",
+    "answer": "_event_media__45c022e0-6723-4bc9-b3b8-1e220a927084",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "7ea9fe66e613f707a8aa73c29db78614"
+  },
+  {
+    "ref": "65aa9c70-5598-4569-800a-5f673153ef13",
+    "keyword": "7ea9fe66e613f707a8aa73c29db78614",
+    "answer": "Jajaja que cool",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "30bf02b9b96b3db919d45076ba5acf75"
+  },
+  {
+    "ref": "002c6591-e528-4b12-b93d-4ab62d2cb546",
+    "keyword": "30bf02b9b96b3db919d45076ba5acf75",
+    "answer": "Coño que bueno",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "6a058b2059d5ecc4a2cef26cee999c71"
+  },
+  {
+    "ref": "9efcff87-41c5-4dfe-85d9-25dd9890cd9a",
+    "keyword": "6a058b2059d5ecc4a2cef26cee999c71",
+    "answer": "Naguara",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "0b078c34015922392c1f387c3eedb78e"
+  },
+  {
+    "ref": "ef83b237-3ba2-44d5-9655-517fec953566",
+    "keyword": "0b078c34015922392c1f387c3eedb78e",
+    "answer": "Jaja",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "22e93a1359c3b07a6304debc87a81f7d"
+  },
+  {
+    "ref": "f59576fa-200f-4a8e-a58e-6dcbc841b665",
+    "keyword": "22e93a1359c3b07a6304debc87a81f7d",
+    "answer": "A mi me fuera dado flojerav",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "e0ecaa3bd79d64d4765b73d6ffa8fedb"
+  },
+  {
+    "ref": "15938f57-ea24-4948-91fb-60e42703e0ed",
+    "keyword": "e0ecaa3bd79d64d4765b73d6ffa8fedb",
+    "answer": "Ajjaja. Media semana",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "8cd86fe6d691f6bab57eebe696fdd46c"
+  },
+  {
+    "ref": "06e65f55-56ed-4c4e-8b12-4af909ae256f",
+    "keyword": "8cd86fe6d691f6bab57eebe696fdd46c",
+    "answer": "Me diera flojera",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "89ad01afd832341ba7ab6fd58331489b"
+  },
+  {
+    "ref": "58f50c57-9bb0-417a-b25a-14fb942f7dcd",
+    "keyword": "89ad01afd832341ba7ab6fd58331489b",
+    "answer": "Jodaaaaaaaa",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "793c9e846427f23ed94fa697f0ef8260"
+  },
+  {
+    "ref": "21880581-6998-4093-9603-9c47458fb19a",
+    "keyword": "793c9e846427f23ed94fa697f0ef8260",
+    "answer": "Jaajja",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "abead900fb2d00c93d06e1b024e8821e"
+  },
+  {
+    "ref": "d7c840a8-3d95-42f5-904a-2e0082a0ff1d",
+    "keyword": "abead900fb2d00c93d06e1b024e8821e",
+    "answer": "Gracias a Dios",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "7592198bc38ce9de24f891c7f65c403c"
+  },
+  {
+    "ref": "aea65915-bf27-4a52-a82f-a312e741d38a",
+    "keyword": "7592198bc38ce9de24f891c7f65c403c",
+    "answer": "Que bueno",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "05afabd003a9e6996e02e5599c4308e3"
+  },
+  {
+    "ref": "e1959c27-2723-4510-8b0a-2b5655f8cf3b",
+    "keyword": "05afabd003a9e6996e02e5599c4308e3",
+    "answer": "Ya veo",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "061a7e51aa7ffa5f43bef2c5c5424bac"
+  },
+  {
+    "ref": "2aaa48aa-4372-4e4c-acbc-9938d51fa36d",
+    "keyword": "061a7e51aa7ffa5f43bef2c5c5424bac",
+    "answer": "Jajajajaj",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "bcc7d0a9c10c3c288d2cbf7bcea7eeaa"
+  },
+  {
+    "ref": "bf8ec588-08ab-40bf-9a59-e6d0c86a8a72",
+    "keyword": "bcc7d0a9c10c3c288d2cbf7bcea7eeaa",
+    "answer": "Yo aquí",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "c9a567fd2ce6ed464167f10d548808c1"
+  },
+  {
+    "ref": "6d798761-7c01-4d95-9bf8-defb09d2f458",
+    "keyword": "c9a567fd2ce6ed464167f10d548808c1",
+    "answer": "Aquí hace un culo de frío",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "9c9784cd8c9a437fc902550af539b43a"
+  },
+  {
+    "ref": "bc162f5a-3974-4cb3-94d4-e101aa9234b1",
+    "keyword": "9c9784cd8c9a437fc902550af539b43a",
+    "answer": "Jajajajaj si",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "64b72bcded7491347d80e28efb2bedc7"
+  },
+  {
+    "ref": "c742a341-d07d-4f8e-8545-543cc44f00e2",
+    "keyword": "64b72bcded7491347d80e28efb2bedc7",
+    "answer": "Yo siempre",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "97d92209f6232ca4a65a41200297caab"
+  },
+  {
+    "ref": "fd94897e-9e0e-42a6-ab3f-41c2acd896e9",
+    "keyword": "97d92209f6232ca4a65a41200297caab",
+    "answer": "Ajjajajaja",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "2cbb375c0a40524ade2768fc443568c6"
+  },
+  {
+    "ref": "affb36e4-e415-46dd-9187-a32c63ca5b22",
+    "keyword": "2cbb375c0a40524ade2768fc443568c6",
+    "answer": "Eso es bueno",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "53c3cf75bfada53550c9498c34cca4c1"
+  },
+  {
+    "ref": "8409e4c3-8175-4991-9eb5-0053a269084f",
+    "keyword": "53c3cf75bfada53550c9498c34cca4c1",
+    "answer": "Yo en el camino en el trabajo en la casa en el baño",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "a417775dfca42fd4a550ce6489c6a906"
+  },
+  {
+    "ref": "6efb489d-fe0e-4954-97b3-e29e32af2e07",
+    "keyword": "a417775dfca42fd4a550ce6489c6a906",
+    "answer": "En todos lados",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "5daa752ce9be70b468421d8a8ba48ca3"
+  },
+  {
+    "ref": "279e6912-499e-43eb-b8f3-5b6060d17587",
+    "keyword": "5daa752ce9be70b468421d8a8ba48ca3",
+    "answer": "Nunca pensé que quería que llegará verano",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "e8c7639e973395ca52ad89f4e0231917"
+  },
+  {
+    "ref": "f1752922-a9b4-41dc-9169-19da33f3c092",
+    "keyword": "e8c7639e973395ca52ad89f4e0231917",
+    "answer": "A uno no le dan ganas de bañarse",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "f4e3f7528dfa6d2b0c3fad4634c4e5d1"
+  },
+  {
+    "ref": "f7c6f313-fb52-4f98-ae5d-ea6a4bac9915",
+    "keyword": "f4e3f7528dfa6d2b0c3fad4634c4e5d1",
+    "answer": "Jajjajaj",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "59bf7e36e258db31080b1f582f1c8a46"
+  },
+  {
+    "ref": "f0642764-f6ed-4829-a2ef-8cf097b82ea3",
+    "keyword": "59bf7e36e258db31080b1f582f1c8a46",
+    "answer": "Pero después pienso en el calor",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "91dc325c8dcb2b582155e60a3121053e"
+  },
+  {
+    "ref": "48313a1e-dea3-4eb1-b4e8-1d5dd895431e",
+    "keyword": "91dc325c8dcb2b582155e60a3121053e",
+    "answer": "_event_media__88aff607-1c58-48c8-a8e7-835dac24784c",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "e1d266b60880ba40e46505fb33ae6a5c"
+  },
+  {
+    "ref": "26b5ae54-b2dc-4f81-9cd0-b19ba2e8afcb",
+    "keyword": "e1d266b60880ba40e46505fb33ae6a5c",
+    "answer": "Thamy y una perrita que adoptaron",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "9ab43ae9652199b779e4683cd3bed554"
+  },
+  {
+    "ref": "c5516d66-c271-40fb-b996-c81e3c466d0d",
+    "keyword": "9ab43ae9652199b779e4683cd3bed554",
+    "answer": "Jajajaj",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "ee0da955298386dd44afcd5028f26f86"
+  },
+  {
+    "ref": "34ba8397-d18b-4c05-8b2c-3dfc29e24513",
+    "keyword": "ee0da955298386dd44afcd5028f26f86",
+    "answer": "Claroo",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "574ce635401a8b62a0ff06e5d31e6ffd"
+  },
+  {
+    "ref": "ff682bc6-8d50-426a-acae-89407c5c45c9",
+    "keyword": "574ce635401a8b62a0ff06e5d31e6ffd",
+    "answer": "Pero no le dan ganas",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "fe1c4fdcf00a904a84888c29a850491d"
+  },
+  {
+    "ref": "f08d1f2c-7a51-4f03-b634-6aa31bdc0532",
+    "keyword": "fe1c4fdcf00a904a84888c29a850491d",
+    "answer": "Uno se baña porque se tiene que bañar no porque uno quiera",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "38e9d19395a2cd68e564da52c1d373b8"
+  },
+  {
+    "ref": "96fedc18-6d81-42f7-b2ec-9ae1a3a4ab95",
+    "keyword": "38e9d19395a2cd68e564da52c1d373b8",
+    "answer": "Obviamente",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "45d81d06016b0659393d09cc7a50e59d"
+  },
+  {
+    "ref": "cc3eae50-d61e-4f8a-86f1-b726e7029b5c",
+    "keyword": "45d81d06016b0659393d09cc7a50e59d",
+    "answer": "Jj",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "0bafa26285b59fd63ecf8db271ee296b"
+  },
+  {
+    "ref": "422eb5ed-09f5-41de-902b-650e9d0be83b",
+    "keyword": "0bafa26285b59fd63ecf8db271ee296b",
+    "answer": "_event_media__f503ebaa-c711-4e8d-834a-8e9e0bfc3230",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "89ff144b6b2b1c5bc08eb25712fc29b5"
+  },
+  {
+    "ref": "0f11a013-838e-46bb-b0b6-000948e5a9d2",
+    "keyword": "89ff144b6b2b1c5bc08eb25712fc29b5",
+    "answer": "Jajajajaj",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "bcc7d0a9c10c3c288d2cbf7bcea7eeaa"
+  },
+  {
+    "ref": "141b8eff-6f70-4fd9-a19f-2f92a935de7a",
+    "keyword": "bcc7d0a9c10c3c288d2cbf7bcea7eeaa",
+    "answer": "Que es",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "a78accc8cc281c224fdb47df2009d007"
+  },
+  {
+    "ref": "400b08b9-fefa-466a-96f9-f44aa5025970",
+    "keyword": "a78accc8cc281c224fdb47df2009d007",
+    "answer": "A mi no jajajajaja",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "17dce1a0c8fd46cb4ece37189308e278"
+  },
+  {
+    "ref": "02735306-f6c0-4fe5-beb6-c26f12c41038",
+    "keyword": "17dce1a0c8fd46cb4ece37189308e278",
+    "answer": "El frío es muy potente",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "e63d0bed41b4045c0466b5cfc372faaa"
+  },
+  {
+    "ref": "d87679a1-a584-466f-8a3d-0f4833fd9765",
+    "keyword": "e63d0bed41b4045c0466b5cfc372faaa",
+    "answer": "Jaja",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "22e93a1359c3b07a6304debc87a81f7d"
+  },
+  {
+    "ref": "be7ed44d-0703-44ad-8632-5d8de53bf1ae",
+    "keyword": "22e93a1359c3b07a6304debc87a81f7d",
+    "answer": "Te iba a decir lo mismo",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "5b41fa7b8008085b1ba45ab3d41b3a7c"
+  },
+  {
+    "ref": "8f8cd847-a797-49c6-bc7e-1ba520752a75",
+    "keyword": "5b41fa7b8008085b1ba45ab3d41b3a7c",
+    "answer": "Chaito",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "ac06ae7241b240e88304b459ea97f21d"
+  },
+  {
+    "ref": "c0475669-57a5-45cd-afea-0d0c75954728",
+    "keyword": "ac06ae7241b240e88304b459ea97f21d",
+    "answer": "Igual",
+    "options": {},
+    "from": "584125044792",
+    "refSerialize": "4ec687e3001e5bed25ce55a95c1e26b7"
+  }
+]
