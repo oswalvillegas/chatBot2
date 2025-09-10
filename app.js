@@ -143,7 +143,6 @@ const asesor = addKeyword(EVENTS.ACTION)
     await state.update({ nombre: ctx.body});
 
   })
-  .addAnswer('Ingrese sus datos')
   .addAnswer('Cédula:', { capture: true }, async (ctx, { state }) => {
     cedula = ctx.body;
     await state.update({ cedula: ctx.body});
