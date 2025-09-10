@@ -2,7 +2,7 @@ const { createBot, createProvider, createFlow, addKeyword, EVENTS } = require('@
 
 const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
-const MockAdapter = require('@bot-whatsapp/database/json')
+const MockAdapter = require('@bot-whatsapp/database/mock')
 
 
 //solisitar archivos
