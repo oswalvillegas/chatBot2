@@ -149,7 +149,7 @@ const asesor = addKeyword(EVENTS.ACTION)
     await state.update({ cedula: ctx.body});
 
   })
-  .addAnswer('Rason de su solicitud:', { capture: true }, async (ctx, { state, flowDynamic, fallBack, gotoFlow,  endFlow}) => {
+  .addAnswer('Razón de su solicitud:', { capture: true }, async (ctx, { state, flowDynamic, fallBack, gotoFlow,  endFlow}) => {
     await state.update({ razon: ctx.body });
     const data = await state.getMyState();
     
