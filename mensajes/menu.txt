@@ -2,4 +2,5 @@
 👉 1 Consulta de saldo.
 👉 2 Métodos de pagos disponibles.
 👉 3 Solicitar asistencia con un asesor de Ventas.
+👉 4 Anexar comprobante de pago.
 👉 0 Salir del Bot
